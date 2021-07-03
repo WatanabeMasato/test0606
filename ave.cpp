@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	int x,y;
-
+        int z;
 	cout << "two integer of average\n";
 	cout << "x parameter "; cin >> x;
 	cout << "y parameter "; cin >> y;
